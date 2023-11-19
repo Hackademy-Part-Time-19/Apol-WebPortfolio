@@ -161,7 +161,7 @@ header nav .search i {
 .landing {
   display: flex;
   height: 90vh;
-  background-image: url(./imagini/IMG_8566.png);
+  background-image: url(./imagini/PersonalFoto.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -672,7 +672,7 @@ a {
 .cardhola {
   height: 100%;
   border-radius: 10px;
-  background-image: url(./imagini/linda.png);
+  background-image: url(./imagini/FirstWebsite.png);
   background-size: cover;
   transition: all 0.5s ease-in-out;
   transform-style: preserve-3d;
@@ -681,7 +681,7 @@ a {
 .cardhola2 {
   height: 100%;
   border-radius: 10px;
-  background-image: url(./imagini/valerio.png);
+  background-image: url(./imagini/SecondWebsite.png);
   background-size: cover;
   transition: all 0.5s ease-in-out;
   transform-style: preserve-3d;
